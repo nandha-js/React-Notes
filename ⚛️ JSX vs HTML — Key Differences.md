@@ -26,7 +26,7 @@ Even though they look similar, JSX and HTML have some important differences.
 
 ---
 
-## 🧠 **Example:**
+## 🧠 **Example: **
 ```html
 <!-- HTML -->
 <h1>Hello World</h1>
@@ -39,4 +39,4 @@ const name = "Nandha";
 ## 💡 Tip:
 
 JSX is not HTML, but it helps React developers write UI in a more natural, HTML-like way.
-Under the hood, JSX is converted to React.createElement() calls
+Under the hood, JSX is converted to React.createElement() calls.
